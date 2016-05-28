@@ -20,7 +20,7 @@
 19,msgt2,11730,1370,RANK_MSGT,RANK_MSGT_FULL2,rank_msgt2,13100,;,specialty_fastreload,;,;,;,20,20,;,RANK_MSGT_FULL_N
 20,msgt3,13100,1450,RANK_MSGT,RANK_MSGT_FULL3,rank_msgt3,14550,;,;,tier_7_a,;,;,21,21,;,RANK_MSGT_FULL_N
 21,mgysgt1,14550,1530,RANK_MGYSGT,RANK_MGYSGT_FULL,rank_mgysgt1,16080,dragunov,;,ch_marksman_dragunov;ch_expert_dragunov_1,dragunov camo_brockhaurd;dragunov camo_bushdweller,;,22,22,;,RANK_MGYSGT_FULL
-22,mgysgt2,16080,1610,RANK_MGYSGT,RANK_MGYSGT_FULL2,rank_mgysgt2,17690,;,claymore_mp,;,;,;,23,23,;,RANK_MGYSGT_FULL_N23,mgysgt3,17690,1690,RANK_MGYSGT,RANK_MGYSGT_FULL3,rank_mgysgt3,19380,;,;,tier_7_b,;,;,24,24,;,RANK_MGYSGT_FULL_N
+22,mgysgt2,16080,1610,RANK_MGYSGT,RANK_MGYSGT_FULL2,rank_mgysgt2,17690,;,claymore_mp,;,;,;,23,23,;,RANK_MGYSGT_FULL_N
 23,mgysgt3,17690,1690,RANK_MGYSGT,RANK_MGYSGT_FULL3,rank_mgysgt3,19380,;,;,tier_7_b,;,;,24,24,;,RANK_MGYSGT_FULL_N
 24,2ndlt1,19380,1770,RANK_2NDLT,RANK_2NDLT_FULL,rank_2ndlt1,21150,g3,;,ch_marksman_g3_1;ch_expert_g3_1,g3 camo_brockhaurd;g3 camo_bushdweller,g3 gl,25,25,;,RANK_2NDLT_FULL
 25,2ndlt2,21150,1850,RANK_2NDLT,RANK_2NDLT_FULL2,rank_2ndlt2,23000,;,specialty_holdbreath,;,;,;,26,26,;,RANK_2NDLT_FULL_N
